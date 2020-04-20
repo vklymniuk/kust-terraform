@@ -1,4 +1,4 @@
-# Kust-ceramics terraform kubenetes cluster init. 
+# Kust-ceramics.
 
 # Terraform Google GKE Cluster Example
 
